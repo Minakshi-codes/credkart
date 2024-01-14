@@ -1,0 +1,1 @@
+pytest -v -s "C:\Users\Lenovo\Documents\Python Revision Notes\selenium\selenium practical\Pytest_Credkart - Copy" --html=HTMLReports/firefox_reports.html --browser firefox
